@@ -38,7 +38,7 @@
                 android:gravity="center"
                 android:padding="16dp"
                 android:text="Team A"
-                android:textColor="#616161"
+                android:textColor="#red"
                 android:textSize="14sp" />
 
             <TextView
@@ -49,7 +49,7 @@
                 android:gravity="center"
                 android:paddingBottom="24dp"
                 android:text="0"
-                android:textColor="#000000"
+                android:textColor="#red"
                 android:textSize="56sp" />
 
             <Button
